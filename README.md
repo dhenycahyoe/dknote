@@ -6,7 +6,7 @@ dkNote Free HTML5 Simple and Responsive WordPress Themes
 ##Description
 dkNote Themes HTML 5, is themes elegant, clean, simple and Responsive WordPress themes. It supports 3 widget area on the right sidebar, SEO meta settings, custom css, custom icon, custom 6 social media buttons widget. support custom menus and multi level dropdown menus, Also translation ready.
 
----------------
+
 == License ==
 ---------------
 dkNote WordPress Theme, Copyright 2013 Deny E. Wicahyo<br>
@@ -21,7 +21,7 @@ Licensed under the Apache License, Version 2.0 (the "License");
 
 * Theme options framework - GNU General Public License v2.0, http://www.wptheming.com/
 
----------------
+
 == Changelog ==
 ---------------
     
@@ -59,5 +59,4 @@ Licensed under the Apache License, Version 2.0 (the "License");
 dkNote Themes created by : Deny E.Wicahyo<br>
 My Blog      = http://omague.com/<br>
 My Facebook  = http://facebook.com/DenyEkaWicahyo<br>
-My Twitter   = http://twitter.com/dhenycahyoe
----
+My Twitter   = http://twitter.com/dhenycahyoe<br>
