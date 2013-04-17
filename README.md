@@ -16,7 +16,7 @@ is distributed under the terms of the GNU GPL
 * http://www.gnu.org/licenses/gpl-3.0.html
 
 Font DroidSans:<br>
-Licensed under the Apache License, Version 2.0 (the "License");
+Licensed under the Apache License, Version 2.0 (the "License");<br>
 //location= wp-content/themes/dknote/font/droid/Google Android License.txt
 
 * Theme options framework - GNU General Public License v2.0, http://www.wptheming.com/
